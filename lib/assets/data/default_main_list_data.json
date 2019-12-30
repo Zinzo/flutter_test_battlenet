@@ -1,0 +1,77 @@
+[
+    {
+        "type": "ent",
+        "data": [
+            {
+                "title": "SMTOWN",
+                "img": "lib/assets/img/bts.jpg",
+                "keyword":"SMTOWN"
+            },
+            {
+                "title": "JYP",
+                "img": "lib/assets/img/bts.jpg",
+                "keyword":"JYP"
+            },
+            {
+                "title": "IbighIt",
+                "img": "lib/assets/img/bts.jpg",
+                "keyword":"IbighIt"
+            },
+            {
+                "title": "1TheK",
+                "img": "lib/assets/img/bts.jpg",
+                "keyword":"1TheK"
+            },
+            {
+                "title": "MNET",
+                "img": "lib/assets/img/bts.jpg",
+                "keyword":"MNET"
+            }
+        ]
+    },
+    {
+        "type": "male",
+        "data": [
+            {
+                "title": "BTS",
+                "img": "lib/assets/img/bts.jpg",
+                "keyword":"비티에스"
+            },
+            {
+                "title": "EXO",
+                "img": "lib/assets/img/exo.png",
+                "keyword":"엑스오"
+            },
+            {
+                "title": "GOT 7",
+                "img": "lib/assets/img/got7.jpg",
+                "keyword":"갓세븐"
+            }
+        ]
+    },
+    {
+        "type": "female",
+        "data": [
+            {
+                "title": "IU",
+                "img": "lib/assets/img/iu.jpg",
+                "keyword":"아이유"
+            },
+            {
+                "title": "TWICE",
+                "img": "lib/assets/img/twice.jpg",
+                "keyword":"트와이스"
+            },
+            {
+                "title": "BLACK PINK",
+                "img": "lib/assets/img/blackpink.jpg",
+                "keyword":"블랙핑크"
+            },
+            {
+                "title": "MAMAMOO",
+                "img": "lib/assets/img/mamamoo.jpg",
+                "keyword":"마마무"
+            }
+        ]
+    }
+]
